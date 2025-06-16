@@ -7,7 +7,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Minhas Skills
 <table><tr><td valign="top" width="33%">
 
 
@@ -48,7 +48,7 @@
 <br/>  
 
 
-## Connect with me  
+## Vamos nos Conectar!
 <div align="center">
 <a href="https://github.com/GabiCodings" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -65,14 +65,13 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Posts Recentes
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
